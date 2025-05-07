@@ -1,0 +1,2 @@
+# config.py
+GEMINI_API_KEY = "AIzaSyDMReRIyOcpy0e6FZIUv5uN3BR_uDneSLU"
